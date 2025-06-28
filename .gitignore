@@ -1,0 +1,6 @@
+# Abaikan SEMUA file
+*
+
+# Tapi JANGAN abaikan file tertentu:
+!.gitignore
+!ngrok.json
